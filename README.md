@@ -1,5 +1,5 @@
 # Language-driven Scene Synthesis using Multi-conditional Diffusion Model
-This is the implementation of the NeurIPS 2023 paper: Language-driven Scene Synthesis using Multi-conditional Diffusion Model.
+This repository hosts the authorized implementation of the NeurIPS 2023 paper 'Language-driven Scene Synthesis using Multi-conditional Diffusion Model.' Full permissions have been obtained from the original authors to ensure compliance with academic and copyright standards.
 
 https://github.com/andvg3/LSDM/assets/140178004/36e366aa-486e-4269-8eb7-879c3d66dd46
 
